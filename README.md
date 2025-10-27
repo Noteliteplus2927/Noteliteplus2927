@@ -3,7 +3,7 @@
 <h2>👨‍💻 Unreal Engine Projects:</h2>
 
 - <b>Unreal Engine 4 Practice </b>
-  - [Making First Scenic View](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Making First Scenic View](https://github.com/Noteliteplus2927/ScenicView1)
   
 <h2> 🤳 Connect with me:</h2>
 
